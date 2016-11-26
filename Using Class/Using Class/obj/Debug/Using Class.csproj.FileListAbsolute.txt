@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\Using Class\Using Class\bin\Debug\Using Class.exe.config
+C:\Users\Jamsons\Desktop\Using Class\Using Class\obj\Debug\Using Class.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\Using Class\Using Class\bin\Debug\Using Class.exe
+C:\Users\Jamsons\Desktop\Using Class\Using Class\bin\Debug\Using Class.pdb
+C:\Users\Jamsons\Desktop\Using Class\Using Class\obj\Debug\Using Class.exe
+C:\Users\Jamsons\Desktop\Using Class\Using Class\obj\Debug\Using Class.pdb

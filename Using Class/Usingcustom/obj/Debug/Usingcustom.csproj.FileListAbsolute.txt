@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\Using Class\Usingcustom\obj\Debug\Usingcustom.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\Using Class\Usingcustom\bin\Debug\Usingcustom.exe.config
+C:\Users\Jamsons\Desktop\Using Class\Usingcustom\bin\Debug\Usingcustom.exe
+C:\Users\Jamsons\Desktop\Using Class\Usingcustom\bin\Debug\Usingcustom.pdb
+C:\Users\Jamsons\Desktop\Using Class\Usingcustom\obj\Debug\Usingcustom.exe
+C:\Users\Jamsons\Desktop\Using Class\Usingcustom\obj\Debug\Usingcustom.pdb

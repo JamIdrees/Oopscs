@@ -29,15 +29,15 @@ public class Customer
             get { return mEmail; }
             set { mEmail = value; }
         }
-        private string mHomeAddress;
-        public string Address
+        private Address mHomeAddress;
+        public Address HomeAddress
         {
             get { return mHomeAddress; }
             set { mHomeAddress = value; }
 
         }
-        private string mWorkaddress;
-    public string Workaddress
+        private Address mWorkaddress;
+    public Address Workaddress
         {
             get { return mWorkaddress; }
             set { mWorkaddress = value; }

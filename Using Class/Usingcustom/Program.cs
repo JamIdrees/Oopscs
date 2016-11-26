@@ -14,7 +14,11 @@ namespace Usingcustom
             cust.Firstname = "Mohammed";
             cust.Lastname = "Idrees";
             cust.Email = "mdidrees134@gmail.com";
-            cust.Address = "Bangalore";
+            Address homeAddress = new Address();
+            homeAddress.Street = "Queens Road";
+            homeAddress.City = "Bangalore";
+            homeAddress.Pincode = "560001";
+            cust.HomeAddress = homeAddress;
             cust.Retrieve();
             Console.ReadLine();
         }

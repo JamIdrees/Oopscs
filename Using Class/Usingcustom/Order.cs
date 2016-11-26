@@ -36,8 +36,8 @@ namespace Usingcustom
             get { return mOrderdate; }
             set { mOrderdate = value; }
         }
-        private string mShipaddress;
-        public string Shipaddress
+        private Address mShipaddress;
+        public Address Shipaddress
         {
             get { return mShipaddress; }
             set { mShipaddress = value; }
